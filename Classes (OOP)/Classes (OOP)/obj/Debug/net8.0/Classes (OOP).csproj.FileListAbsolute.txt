@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\bin\Debug\net8.0\Classes (OOP).exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\bin\Debug\net8.0\Classes (OOP).deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\bin\Debug\net8.0\Classes (OOP).runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\bin\Debug\net8.0\Classes (OOP).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\bin\Debug\net8.0\Classes (OOP).pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\refint\Classes (OOP).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\Classes (OOP).genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Classes (OOP)\Classes (OOP)\obj\Debug\net8.0\ref\Classes (OOP).dll
