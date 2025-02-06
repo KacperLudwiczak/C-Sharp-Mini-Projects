@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\bin\Debug\net8.0\Calculator Console App Version 2.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\bin\Debug\net8.0\Calculator Console App Version 2.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\bin\Debug\net8.0\Calculator Console App Version 2.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\bin\Debug\net8.0\Calculator Console App Version 2.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\bin\Debug\net8.0\Calculator Console App Version 2.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\refint\Calculator Console App Version 2.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\Calculator Console App Version 2.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App Version 2\Calculator Console App Version 2\obj\Debug\net8.0\ref\Calculator Console App Version 2.dll
