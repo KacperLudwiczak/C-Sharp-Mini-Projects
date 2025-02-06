@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\bin\Debug\net8.0\Collections in C# (List).exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\bin\Debug\net8.0\Collections in C# (List).deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\bin\Debug\net8.0\Collections in C# (List).runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\bin\Debug\net8.0\Collections in C# (List).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\bin\Debug\net8.0\Collections in C# (List).pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\refint\Collections in C# (List).dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\Collections in C# (List).genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Collections in C# (List)\Collections in C# (List)\obj\Debug\net8.0\ref\Collections in C# (List).dll
