@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\bin\Debug\net8.0\Calculator Console App.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\bin\Debug\net8.0\Calculator Console App.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\bin\Debug\net8.0\Calculator Console App.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\bin\Debug\net8.0\Calculator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\bin\Debug\net8.0\Calculator Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\refint\Calculator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\Calculator Console App.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Calculator Console App\Calculator Console App\obj\Debug\net8.0\ref\Calculator Console App.dll
