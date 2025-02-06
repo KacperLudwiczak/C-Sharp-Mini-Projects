@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\bin\Debug\net8.0\Old Style.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\bin\Debug\net8.0\Old Style.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\bin\Debug\net8.0\Old Style.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\bin\Debug\net8.0\Old Style.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\bin\Debug\net8.0\Old Style.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\refint\Old Style.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\Old Style.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Old Style\Old Style\obj\Debug\net8.0\ref\Old Style.dll
