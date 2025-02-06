@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\bin\Debug\net8.0\Console 2D and 3D Array.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\bin\Debug\net8.0\Console 2D and 3D Array.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\bin\Debug\net8.0\Console 2D and 3D Array.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\bin\Debug\net8.0\Console 2D and 3D Array.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\bin\Debug\net8.0\Console 2D and 3D Array.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\refint\Console 2D and 3D Array.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\Console 2D and 3D Array.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Console 2D and 3D Array\Console 2D and 3D Array\obj\Debug\net8.0\ref\Console 2D and 3D Array.dll
