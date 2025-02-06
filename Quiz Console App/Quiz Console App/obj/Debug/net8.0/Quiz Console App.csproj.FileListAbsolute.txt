@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\bin\Debug\net8.0\Quiz Console App.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\bin\Debug\net8.0\Quiz Console App.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\bin\Debug\net8.0\Quiz Console App.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\bin\Debug\net8.0\Quiz Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\bin\Debug\net8.0\Quiz Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\refint\Quiz Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\Quiz Console App.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Quiz Console App\Quiz Console App\obj\Debug\net8.0\ref\Quiz Console App.dll
