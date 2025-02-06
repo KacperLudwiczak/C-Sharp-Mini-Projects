@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\bin\Debug\net8.0\Error Handling in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\bin\Debug\net8.0\Error Handling in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\bin\Debug\net8.0\Error Handling in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\bin\Debug\net8.0\Error Handling in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\bin\Debug\net8.0\Error Handling in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\refint\Error Handling in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\Error Handling in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Error Handling in C#\Error Handling in C#\obj\Debug\net8.0\ref\Error Handling in C#.dll
