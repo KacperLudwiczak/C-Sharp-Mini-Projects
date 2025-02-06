@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\bin\Debug\net8.0\Weather Station Simulator Console App.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\bin\Debug\net8.0\Weather Station Simulator Console App.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\bin\Debug\net8.0\Weather Station Simulator Console App.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\bin\Debug\net8.0\Weather Station Simulator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\bin\Debug\net8.0\Weather Station Simulator Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\refint\Weather Station Simulator Console App.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\Weather Station Simulator Console App.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Weather Station Simulator Console App\Weather Station Simulator Console App\obj\Debug\net8.0\ref\Weather Station Simulator Console App.dll

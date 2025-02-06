@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Weather Station Simulator Console App/1.0.0": {
+        "runtime": {
+          "Weather Station Simulator Console App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weather Station Simulator Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
