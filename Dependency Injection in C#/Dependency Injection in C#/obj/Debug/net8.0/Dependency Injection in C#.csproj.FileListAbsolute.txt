@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\bin\Debug\net8.0\Dependency Injection in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\bin\Debug\net8.0\Dependency Injection in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\bin\Debug\net8.0\Dependency Injection in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\bin\Debug\net8.0\Dependency Injection in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\bin\Debug\net8.0\Dependency Injection in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\refint\Dependency Injection in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\Dependency Injection in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Dependency Injection in C#\Dependency Injection in C#\obj\Debug\net8.0\ref\Dependency Injection in C#.dll
