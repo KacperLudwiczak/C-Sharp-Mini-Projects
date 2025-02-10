@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\bin\Debug\net8.0\DateTime in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\bin\Debug\net8.0\DateTime in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\bin\Debug\net8.0\DateTime in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\bin\Debug\net8.0\DateTime in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\bin\Debug\net8.0\DateTime in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\refint\DateTime in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\DateTime in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\DateTime in C#\DateTime in C#\obj\Debug\net8.0\ref\DateTime in C#.dll
