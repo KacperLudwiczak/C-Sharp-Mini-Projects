@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\bin\Debug\net8.0\Interfaces in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\bin\Debug\net8.0\Interfaces in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\bin\Debug\net8.0\Interfaces in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\bin\Debug\net8.0\Interfaces in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\bin\Debug\net8.0\Interfaces in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\refint\Interfaces in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\Interfaces in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Interfaces in C#\Interfaces in C#\obj\Debug\net8.0\ref\Interfaces in C#.dll
