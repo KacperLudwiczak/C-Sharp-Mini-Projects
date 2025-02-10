@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\bin\Debug\net8.0\Structs in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\bin\Debug\net8.0\Structs in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\bin\Debug\net8.0\Structs in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\bin\Debug\net8.0\Structs in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\bin\Debug\net8.0\Structs in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\refint\Structs in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\Structs in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Structs in C#\Structs in C#\obj\Debug\net8.0\ref\Structs in C#.dll
