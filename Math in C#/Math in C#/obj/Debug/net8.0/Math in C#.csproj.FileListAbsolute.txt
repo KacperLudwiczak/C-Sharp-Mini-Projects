@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\bin\Debug\net8.0\Math in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\bin\Debug\net8.0\Math in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\bin\Debug\net8.0\Math in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\bin\Debug\net8.0\Math in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\bin\Debug\net8.0\Math in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\refint\Math in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\Math in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Math in C#\Math in C#\obj\Debug\net8.0\ref\Math in C#.dll
