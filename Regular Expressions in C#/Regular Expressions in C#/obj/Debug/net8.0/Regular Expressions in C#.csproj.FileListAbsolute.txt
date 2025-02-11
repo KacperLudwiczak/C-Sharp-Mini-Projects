@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\bin\Debug\net8.0\Regular Expressions in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\bin\Debug\net8.0\Regular Expressions in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\bin\Debug\net8.0\Regular Expressions in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\bin\Debug\net8.0\Regular Expressions in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\bin\Debug\net8.0\Regular Expressions in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\refint\Regular Expressions in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\Regular Expressions in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Regular Expressions in C#\Regular Expressions in C#\obj\Debug\net8.0\ref\Regular Expressions in C#.dll
