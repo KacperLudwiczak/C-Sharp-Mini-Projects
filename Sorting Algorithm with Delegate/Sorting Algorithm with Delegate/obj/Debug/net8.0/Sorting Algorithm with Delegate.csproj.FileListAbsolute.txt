@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\bin\Debug\net8.0\Sorting Algorithm with Delegate.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\bin\Debug\net8.0\Sorting Algorithm with Delegate.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\bin\Debug\net8.0\Sorting Algorithm with Delegate.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\bin\Debug\net8.0\Sorting Algorithm with Delegate.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\bin\Debug\net8.0\Sorting Algorithm with Delegate.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\refint\Sorting Algorithm with Delegate.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\Sorting Algorithm with Delegate.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Sorting Algorithm with Delegate\Sorting Algorithm with Delegate\obj\Debug\net8.0\ref\Sorting Algorithm with Delegate.dll
