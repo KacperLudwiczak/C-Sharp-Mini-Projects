@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\bin\Debug\net8.0\Temperature Change Handler with Events.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\bin\Debug\net8.0\Temperature Change Handler with Events.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\bin\Debug\net8.0\Temperature Change Handler with Events.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\bin\Debug\net8.0\Temperature Change Handler with Events.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\bin\Debug\net8.0\Temperature Change Handler with Events.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\refint\Temperature Change Handler with Events.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\Temperature Change Handler with Events.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Temperature Change Handler with Events\Temperature Change Handler with Events\obj\Debug\net8.0\ref\Temperature Change Handler with Events.dll
