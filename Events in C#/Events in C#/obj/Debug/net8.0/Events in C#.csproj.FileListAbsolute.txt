@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\bin\Debug\net8.0\Events in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\bin\Debug\net8.0\Events in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\bin\Debug\net8.0\Events in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\bin\Debug\net8.0\Events in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\bin\Debug\net8.0\Events in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\refint\Events in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\Events in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Events in C#\Events in C#\obj\Debug\net8.0\ref\Events in C#.dll
