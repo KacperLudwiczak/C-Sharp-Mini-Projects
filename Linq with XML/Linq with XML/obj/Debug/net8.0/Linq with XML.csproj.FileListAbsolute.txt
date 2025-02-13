@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\bin\Debug\net8.0\Linq with XML.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\bin\Debug\net8.0\Linq with XML.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\bin\Debug\net8.0\Linq with XML.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\bin\Debug\net8.0\Linq with XML.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\bin\Debug\net8.0\Linq with XML.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\refint\Linq with XML.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\Linq with XML.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with XML\Linq with XML\obj\Debug\net8.0\ref\Linq with XML.dll
