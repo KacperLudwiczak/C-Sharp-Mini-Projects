@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\bin\Debug\Linq with SQL.exe.config
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\bin\Debug\Linq with SQL.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\bin\Debug\Linq with SQL.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.csproj.AssemblyReference.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\App.g.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL_MarkupCompile.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL_MarkupCompile.lref
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\MainWindow.baml
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.g.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq_with_SQL.Properties.Resources.resources
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.csproj.GenerateResource.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Linq with SQL\Linq with SQL\obj\Debug\Linq with SQL.pdb
