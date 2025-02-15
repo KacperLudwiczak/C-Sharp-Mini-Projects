@@ -1,0 +1,15 @@
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\bin\Debug\net8.0\Generics in C#.exe
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\bin\Debug\net8.0\Generics in C#.deps.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\bin\Debug\net8.0\Generics in C#.runtimeconfig.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\bin\Debug\net8.0\Generics in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\bin\Debug\net8.0\Generics in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.AssemblyInfoInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.AssemblyInfo.cs
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.csproj.CoreCompileInputs.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.sourcelink.json
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\refint\Generics in C#.dll
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.pdb
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\Generics in C#.genruntimeconfig.cache
+C:\Users\Kacper Ludwiczak\OneDrive\Desktop\C# Kurs\Generics in C#\Generics in C#\obj\Debug\net8.0\ref\Generics in C#.dll
