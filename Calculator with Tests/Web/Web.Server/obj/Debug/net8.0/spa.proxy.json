@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:55591",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Kacper Ludwiczak\\OneDrive\\Desktop\\C# Kurs\\Calculator with Tests\\Web\\Web.Server\\..\\web.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
