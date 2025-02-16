@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Project with Tests", "Flight Project with Tests\Flight Project with Tests.csproj", "{1E2474CA-ACBA-425E-978F-E88FCEEA105A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Tests", "Domain.Tests\Domain.Tests.csproj", "{085F1E2E-2E7B-4219-945C-A45C620B291F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{FEEC7A7A-2A7F-42F7-B1E4-F19F59606B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2474CA-ACBA-425E-978F-E88FCEEA105A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2474CA-ACBA-425E-978F-E88FCEEA105A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2474CA-ACBA-425E-978F-E88FCEEA105A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2474CA-ACBA-425E-978F-E88FCEEA105A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085F1E2E-2E7B-4219-945C-A45C620B291F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085F1E2E-2E7B-4219-945C-A45C620B291F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085F1E2E-2E7B-4219-945C-A45C620B291F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085F1E2E-2E7B-4219-945C-A45C620B291F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEC7A7A-2A7F-42F7-B1E4-F19F59606B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEC7A7A-2A7F-42F7-B1E4-F19F59606B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEC7A7A-2A7F-42F7-B1E4-F19F59606B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEC7A7A-2A7F-42F7-B1E4-F19F59606B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
